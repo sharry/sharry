@@ -7,5 +7,5 @@
 - I'm intersted in:
   - :window: .NET Core
   - :capital_abcd: Microservices
-  - :triangular_flag_on_post: Angular & NgRx
+  - :triangular_flag_on_post: Angular & NGXS
   - :computer: Automation
