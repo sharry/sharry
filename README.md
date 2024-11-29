@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-*:man_technologist: I'm a software engineering student at ENSET Mohammedia :morocco:*
+*:man_technologist: Software engineering enthusiast :morocco:*
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sharry&show_icons=true">
 
